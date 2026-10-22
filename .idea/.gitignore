@@ -1,0 +1,15 @@
+# Ignore all IntelliJ Product settings by default
+*
+
+# Always track this gitignore
+!.gitignore
+
+# Shared settings
+!vcs.xml
+!codeStyles/
+!inspectionProfiles/
+!scopes/
+!fileTemplates/
+!copyright/
+!encodings.xml
+!runConfigurations/

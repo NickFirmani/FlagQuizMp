@@ -1,0 +1,43 @@
+*.iml
+.gradle
+/local.properties
+
+# JetBrains local/workspace files (keep shareable project settings tracked)
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/contentModel.xml
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# Android Studio local files
+.idea/**/caches/
+.idea/**/libraries/
+.idea/**/modules.xml
+.idea/**/navEditor.xml
+.idea/**/assetWizardSettings.xml
+.idea/**/caches/build_file_checksums.ser
+
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Project exclude paths
+/build-logic/convention/build/
+/build-logic/convention/build/classes/kotlin/main/
+
+# Ignore Gradle build output directory
+build
+
+# Ignore Kotlin plugin data
+.kotlin
